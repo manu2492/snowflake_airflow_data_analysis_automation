@@ -11,7 +11,7 @@ This project demonstrates the automation of data analysis tasks using Apache Air
 
 ## Screenshots
 
-Here are some screenshots that demonstrate the functionality of the DAG:
+Here are some screenshots that demonstrate the functionality of the proyect:
 
 - The CSV files are loaded into Snowflake:
 
@@ -25,7 +25,7 @@ Here are some screenshots that demonstrate the functionality of the DAG:
 
 ![Screenshot 3: DAG running successfully](screenshots/screenshot3.png)
 
-- Slack alerts are generated for task failures (optional):
+- Slack alerts are generated(optional):
 
 ![Screenshot 4: Slack alerts for task failures](screenshots/screenshot4.png)
 
